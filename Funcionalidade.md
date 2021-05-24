@@ -9,9 +9,11 @@ O condutor do veículo iniciará uma manobra de ré para estacionar o carro e o 
 >
 As imagens abaixo ilustram o funcionamento do nosso trabalho na prática:
 >![imagem projeto fase inicial](https://user-images.githubusercontent.com/84140628/119411934-95086f00-bcc1-11eb-9269-fec4ac647561.jpeg)
->**Figura 1. Protótipo do projeto em sua fase inicial**
+>
+**Figura 1. Protótipo do projeto em sua fase inicial**
 >![imagem projeto fase final](https://user-images.githubusercontent.com/84140628/119411941-98035f80-bcc1-11eb-8977-cdff98b70f4a.jpeg) 
->**Figura 2. Protótipo do projeto em sua fase final**
+>
+**Figura 2. Protótipo do projeto em sua fase final**
 >
 A bandeira e o led podem ser posicionados de acordo com a preferência do motorista, e o sensor obrigatoriamente deverá estar situado no obstáculo em que ele possa identificar a luz de ré do veículo. 
 >
