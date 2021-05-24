@@ -25,3 +25,10 @@ A bandeira e o led podem ser posicionados de acordo com a preferência do motori
 >
 Dessa maneira, enquanto o veículo estiver distante do suporte, que detecta sua distância, ele entenderá que o motorista deverá continuar realizando a manobra (figura 1) até que alcance a medida certa de parar e como consequência o sistema acionará a luz do LED e a movimentação da bandeira (figura 2), com o intuito de se comunicar com o usuário. 
 
+>	
+O fluxograma exibe o funcionamento simplificado do projeto.
+
+>![FLUXOGRAMA](https://user-images.githubusercontent.com/84140628/119417765-f08c2a00-bccc-11eb-9551-6e20e4f3ac51.png)
+
+>
+**Figura 3. Fluxograma do projeto**
