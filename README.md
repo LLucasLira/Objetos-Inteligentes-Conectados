@@ -1,7 +1,6 @@
-# Descrição do funcionamento do projeto
+# Me dá uma ajudinha?
 
-## Me dá uma ajudinha?
-
+## Descrição do funcionamento do projeto
 > 
 O projeto “Me dá uma ajudinha?” tem como objetivo de sinalizar ao motorista o momento em que ele deverá parar de dar ré em uma vaga, evitando uma possível colisão.
 
