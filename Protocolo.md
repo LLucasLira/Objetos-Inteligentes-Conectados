@@ -7,10 +7,16 @@ Um dos métodos utilizados foi o do protocolo Firmata que permitirá a comunica�
 > Na IDE do Arduino rodamos o protocolo Firmata:
 > 
 ![WhatsApp Image 2021-05-26 at 22 56 19](https://user-images.githubusercontent.com/84140628/119753773-b5792a80-be75-11eb-80cc-b9a0b6fce0f8.jpeg)
+
+**Figura 1. Passo 1 - Firmata**
 > 
 ![WhatsApp Image 2021-05-26 at 22 56 31](https://user-images.githubusercontent.com/84140628/119753778-b742ee00-be75-11eb-8907-36eba6b3d959.jpeg)
+
+**Figura 2. Passo 2 - Firmata**
 >
 ![WhatsApp Image 2021-05-26 at 22 56 44](https://user-images.githubusercontent.com/84140628/119753783-b8741b00-be75-11eb-8536-a940545347ee.jpeg)
+
+**Figura 3. Passo 3 - Firmata**
 
 > Com o Node-Red aberto estruturamos nosso projeto da seguinte forma:
 
