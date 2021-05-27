@@ -27,7 +27,7 @@ Dessa maneira, enquanto o veículo estiver distante do suporte, que detecta sua 
 >	
 O fluxograma exibe o funcionamento simplificado do projeto.
 
->![FLUXOGRAMA](https://user-images.githubusercontent.com/84140628/119417765-f08c2a00-bccc-11eb-9551-6e20e4f3ac51.png)
+>![Untitled Diagram](https://user-images.githubusercontent.com/84140628/119752183-e73cc200-be72-11eb-81dd-51c81ade9faf.png)
 
 >
 **Figura 3. Fluxograma do projeto**
