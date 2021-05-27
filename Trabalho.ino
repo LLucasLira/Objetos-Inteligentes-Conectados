@@ -1,4 +1,5 @@
 //------------------------------------------------------------------------------------------------------------------------------------------
+//  CÓDIGO CASO QUEIRA RODAR APENAS NO IDE DO ARDUINO
 // LUCAS AUGUSTO FERNANDES DE LIRA - 31955541
 // PAOLLA CAIRO CAMILLO - 31906427
 // OBJETOS INTELIGENTES CONECTADOS
