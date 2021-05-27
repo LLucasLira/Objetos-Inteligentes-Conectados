@@ -12,20 +12,20 @@ Um dos métodos utilizados foi o do protocolo Firmata que permitirá a comunica�
 **Figura 1. Passo 1 - Firmata**
 
 
-> 2.
+2.
 ![WhatsApp Image 2021-05-26 at 22 56 31](https://user-images.githubusercontent.com/84140628/119753778-b742ee00-be75-11eb-8907-36eba6b3d959.jpeg)
 
 **Figura 2. Passo 2 - Firmata**
 
 
->3.
+3.
 ![WhatsApp Image 2021-05-26 at 22 56 44](https://user-images.githubusercontent.com/84140628/119753783-b8741b00-be75-11eb-8536-a940545347ee.jpeg)
 
 **Figura 3. Passo 3 - Firmata**
 
 
 > Com o Node-Red aberto estruturamos nosso projeto da seguinte forma:
->4.
+4.
 ![WhatsApp Image 2021-05-26 at 22 10 22](https://user-images.githubusercontent.com/84140628/119754069-4819c980-be76-11eb-9ccf-66f5745a8044.jpeg)
 
 **Figura 4. Fluxograma no Node-Red**
