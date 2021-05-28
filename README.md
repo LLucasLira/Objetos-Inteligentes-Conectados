@@ -31,3 +31,14 @@ O fluxograma exibe o funcionamento simplificado do projeto.
 
 >
 **Figura 3. Fluxograma do projeto**
+
+## Como reproduzir o projeto:
+>
+Para reproduzir o projeto, acesse o arquivo Hardware.md e obtenha o detalhamento de quais peças serão utilizadas e siga o modelo abaixo para fazer a ligação das mesmas
+
+>![WhatsApp Image 2021-05-19 at 22 24 18](https://user-images.githubusercontent.com/84140628/119919045-f9386680-bf3f-11eb-839f-c2614032401f.jpeg)
+
+>
+**Figura 4. Representação das ligações do projeto**
+
+>E para o funcionamento ideal, baixe o arquivo Trabalho.ino em sua IDE do Arduino ou siga as instruções do arquivo Protocolo.md 
