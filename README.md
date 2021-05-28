@@ -41,4 +41,5 @@ Para reproduzir o projeto, acesse o arquivo Hardware.md e obtenha o detalhamento
 >
 **Figura 4. Representação das ligações do projeto**
 
->E para o funcionamento ideal, baixe o arquivo Trabalho.ino em sua IDE do Arduino ou siga as instruções do arquivo Protocolo.md 
+>
+E para o funcionamento ideal, baixe o arquivo Trabalho.ino em sua IDE do Arduino ou siga as instruções do arquivo Protocolo.md 
